@@ -1,4 +1,4 @@
-# Course on the Econometrics of Human Capital
+# Econometrics of Human Capital
 
 > Intermediate between mathematics, statistics, and economics, we find a new discipline which for lack of a better name, may be called econometrics. Econometrics has as its aim to subject abstract laws of theoretical political economy or 'pure' economics to experimental and numerical verification, and thus to turn pure economics, as far as possible, into a science in the strict sense of the word. (Frisch, 1926)
 
