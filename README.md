@@ -1,8 +1,8 @@
-# Econometrics of Human Capital Analysis
+# Course on the Econometrics of Policy Evaluation
 
 > Intermediate between mathematics, statistics, and economics, we find a new discipline which for lack of a better name, may be called econometrics. Econometrics has as its aim to subject abstract laws of theoretical political economy or 'pure' economics to experimental and numerical verification, and thus to turn pure economics, as far as possible, into a science in the strict sense of the word. (Frisch, 1926)
 
-We study the econometrics of policy evaluation in the context of human capital policies. We frame the discussion around the generalized Roy model (Roy, 1951; Heckman and Vytlacil, 2005) which provides a coherent framework to explore the econometrics of policy evaluation. We discuss alternative objects of interest such as the individual-specific, average, distributional, and marginal effects of treatment and the policy-questions they address. We contrast the economic assumptions behind alternative estimation strategies such as (quasi-)experimental methods, ordinary least squares, matching, (local) instrumental variables, regression discontinuity designs.
+We study the econometrics of policy evaluation. We frame the discussion around the generalized Roy model (Roy, 1951; Heckman and Vytlacil, 2005) which provides a coherent framework to explore the econometrics of policy evaluation. We discuss alternative objects of interest such as the individual-specific, average, distributional, and marginal effects of treatment and the policy-questions they address. We contrast the economic assumptions behind alternative estimation strategies such as (quasi-)experimental methods, ordinary least squares, matching, (local) instrumental variables, regression discontinuity designs.
 
 We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to contact us.
 

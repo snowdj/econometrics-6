@@ -1,0 +1,56 @@
+\begin{frame}\begin{center}
+\LARGE\textbf{Regression Discontinuity Design}
+\end{center}\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+Suppose $D = 1$ if $X \geq x_0$, and $D=0$ otherwise
+\begin{align*}
+\Rightarrow\begin{cases}
+E(Y \mid X = x) = E(Y_0 \mid X = x) & \text{for}\quad x < x_0     \\
+E(Y \mid X = x) = E(Y_1 \mid X = x) & \text{for}\quad x \geq x_0
+\end{cases}
+\end{align*}
+
+Suppose $E(Y_1\mid X = x), E(Y_0\mid X = x)$ are continuous in $x$.
+\begin{align*}
+\Rightarrow\begin{cases}
+\Lim{\epsilon \searrow 0} E(Y_0\mid X = x_0 - \epsilon) = E(Y_0\mid X = x_0) \\
+\Lim{\epsilon \searrow 0} E(Y_1\mid X = x_0 + \epsilon) = E(Y_1\mid X = x_0) \\
+\end{cases}
+\end{align*}
+
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\begin{align*}
+&\Lim{\epsilon \searrow 0} E(Y\mid X = x_0 + \epsilon) - \Lim{\epsilon \searrow 0}E(Y\mid X = x_0 - \epsilon) \\
+&\qquad= \Lim{\epsilon \searrow 0} E(Y_1\mid X = x_0 + \epsilon) - \Lim{\epsilon \searrow 0}E(Y_0\mid X = x_0 - \epsilon) \\
+&\qquad=E(Y_1\mid X = x_0) - E(Y_0\mid X = x_0) \\
+&\qquad=E(Y_1 - Y_0\mid X = x_0)
+\end{align*}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\begin{figure}\caption{Probability}
+\scalebox{0.35}{\includegraphics{fig-strategy-regression-discontinuity-probability}}
+\end{figure}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\begin{figure}\caption{Observed Outcome in a Sharp Design}
+\scalebox{0.35}{\includegraphics{fig-strategy-regression-discontinuity-outcomes-sharp}}
+\end{figure}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\begin{figure}\caption{Observed Outcome in a Fuzzy Design}
+\scalebox{0.35}{\includegraphics{fig-strategy-regression-discontinuity-outcomes-fuzzy}}
+\end{figure}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------

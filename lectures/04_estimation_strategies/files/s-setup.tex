@@ -1,0 +1,90 @@
+\begin{frame}\begin{center}
+\LARGE\textbf{Setup}
+\end{center}\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}\textbf{The Generalized Roy Model}
+\begin{align*}\begin{array}{l@{\qquad}l}
+\text{Potential Outcomes} &\text{Observed Outcome}\\
+Y_1 = \mu_1(X) + U_1      &  Y = D Y_1 + (1 - D)Y_0 \\
+Y_0 = \mu_0(X) + U_0      &\\
+    & \\
+\text{Choice} & \\
+D = \mathrm{I}[\mu_D(X, Z) - V > 0] & \\
+\end{array}
+\end{align*}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\textbf{Key Concept}\vspace{0.5cm}
+
+\textbf{Definition:} Individuals select their treatment status based on
+gains unobservable by the econometrician. More formally,
+
+\begin{align*}
+Y_1 - Y_0 \notindep D\quad \mid X = x.
+\end{align*}
+
+\(\Rightarrow\) consequences for the choice of the estimation strategy
+
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}
+\textbf{Useful Notation}
+
+\begin{align*}
+P(X, Z) & = \Pr(D = 1 \mid X, Z)  = F_V(\mu_D(X, Z)) \\
+U_D & = F_V(V)
+\end{align*}
+
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}\textbf{Key Assumptions}
+
+\begin{itemize}\setlength\itemsep{1em}
+\item $(U_1, U_0, V)$ are independent of $Z$ conditional on $X$
+\item $\mu_D(X, Z)$ is a nondegenerate random variable conditional on $X$
+\item $0 < \Pr(D=1 \mid X) < 1$
+\item $\hdots$
+\end{itemize}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}\textbf{Evaluation Problem}\vspace{0.3cm}
+
+\begin{align*}
+Y = D Y_1 + (1 - D)Y_0 =
+\begin{cases}
+Y_{1} & \text{if}\quad D = 1 \\
+Y_{0} & \text{if}\quad D = 0 \\
+\end{cases}
+\end{align*}\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}\textbf{Selection Problem}\vspace{0.3cm}
+
+\begin{align*}
+E[Y\mid D = 1] - E[Y\mid D = 0] & = \underbrace{E[Y_1 - Y_0]}_{B^{ATE}} \\
+	 							& + \underbrace{E[Y_1 - Y_0 \mid D = 1] - E[Y_1 - Y_0]}_{\text{Sorting Gain}} \\
+								& + \underbrace{E[Y_0\mid D = 1] - E[Y_0 \mid D = 0]}_{\text{Selection Bias}}
+\end{align*}
+\end{frame}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
+\begin{frame}\textbf{Estimation Strategies}
+\begin{itemize}\setlength\itemsep{1em}
+\item Randomization
+\item Matching
+\item Instrumental Variables
+\begin{itemize}
+\item conventional and local
+\end{itemize}
+\item Regression Discontinuity
+\begin{itemize}\setlength\itemsep{1em}
+\item fuzzy and sharp design
+\end{itemize}
+\end{itemize}
+\end{frame}
