@@ -23,7 +23,7 @@ III: Distributional treatment effects, dynamic treatment effects, dynamic discre
 and general equilibrium policy evaluation.](http://ac.els-cdn.com/S1573441207060722/1-s2.0-S1573441207060722-main.pdf?_tid=75533eb2-6bbf-11e7-b0b7-00000aab0f01&acdnat=1500385751_0d3980a5757d0ab71d6d88441e770bbd) In Heckman, J. J. and Leamer, E. E., editors, *Handbook of Econometrics*, volume 6B, pages 5145–5303. Elsevier Science, Amsterdam,
 Netherlands.
 
-The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/policyMetrics/course/blob/master/distribution/Eisenhauer_2012.pdf) provides an accessible introduction to the material in the context of the returns to college.
+The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/Eisenhauer_2012.pdf) provides an accessible introduction to the material in the context of the returns to college.
 
 Please use the table of content to navigate the rest of the material.
 
@@ -36,29 +36,29 @@ Please use the table of content to navigate the rest of the material.
 ***
 ## Lectures <a name="lectures"></a>
 
-You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/policyMetrics/course/blob/master/distribution/course.pdf).
+You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/course.pdf).
 
-#### [Introduction to the Econometrics of Policy Evaluation](https://github.com/policyMetrics/course/blob/master/distribution/01_intro_policy_metrics.pdf)
+#### [Introduction to the Econometrics of Policy Evaluation](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/01_intro_policy_metrics.pdf)
 
 We provide a brief introduction to the econometrics of policy evaluation. We discuss the evaluation tasks, preview the discussion about parameters of interest, and alternative estimation strategies.
 
-#### [Generalized Roy Model](https://github.com/policyMetrics/course/blob/master/distribution/02_generalized_roy_model.pdf)
+#### [Generalized Roy Model](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/02_generalized_roy_model.pdf)
 
 We introduce the generalized Roy model, which provides the conceptual framework for the whole course.
 
-#### [Parameters of Interest](https://github.com/policyMetrics/course/blob/master/distribution/03_parameters_interest.pdf)
+#### [Parameters of Interest](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/03_parameters_interest.pdf)
 
 We discuss alternative parameters of interest and clarify the policy questions they address.
 
-#### [Estimation Strategies](https://github.com/policyMetrics/course/blob/master/distribution/04_estimation_strategies.pdf)
+#### [Estimation Strategies](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/04_estimation_strategies.pdf)
 
 We explore alternative estimation strategies with a focus on the underlying economic assumptions about information available to the individual and econometrician.
 
-#### [*grmpy* Tutorial](https://github.com/policyMetrics/course/blob/master/distribution/05_grmpy_tutorial.pdf)
+#### [*grmpy* Tutorial](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/05_grmpy_tutorial.pdf)
 
-We explore the capabilities of the *grmpy* package. The accompanying notebook is available [here](https://github.com/policyMetrics/course/blob/master/lectures/material/05_grmpy_tutorial/application/grmpy_tut.ipynb).
+We explore the capabilities of the *grmpy* package. The accompanying notebook is available [here](https://github.com/HumanCapitalEconomics/course/blob/master/lectures/material/05_grmpy_tutorial/application/grmpy_tut.ipynb).
 
-#### [Monte Carlo Exploration](https://github.com/policyMetrics/course/blob/master/distribution/06_monte_carlo_exploration.pdf)
+#### [Monte Carlo Exploration](https://github.com/HumanCapitalEconomics/course/blob/master/distribution/06_monte_carlo_exploration.pdf)
 
 We revisit our discussion about the issues in the econometrics of policy evaluation, alternative parameters of interest, and estimation strategies in a variety of Monte Carlo exercises. The accompanying notebook is available [here](http://nbviewer.jupyter.org/github/policyMetrics/course/blob/master/lectures/material/06_monte_carlo_exploration/lecture.ipynb).
 
@@ -141,4 +141,4 @@ econometric policy evaluation.](http://www.jstor.org/stable/pdf/3598865.pdf?refr
 
 ## Iterations <a name="iterations"></a>
 
-* **Winter Quarter 2017**, Graduate Program at the University of Bonn, please see [here](https://github.com/policyMetrics/course/blob/master/iterations/bonn_ws_2017/README.md) for details.
+* **Winter Quarter 2017**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalEconomics/course/blob/master/iterations/bonn_ws_2017/README.md) for details.
