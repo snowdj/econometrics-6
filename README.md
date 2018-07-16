@@ -6,7 +6,7 @@ We study the econometrics of policy evaluation. We frame the discussion around t
 
 We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to contact us.
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/policyMetrics/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HumanCapitalEconomics/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 <br><br>
 
 **Key References**
@@ -60,7 +60,7 @@ We explore the capabilities of the *grmpy* package. The accompanying notebook is
 
 #### [Monte Carlo Exploration](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/06_monte_carlo_exploration.pdf)
 
-We revisit our discussion about the issues in the econometrics of policy evaluation, alternative parameters of interest, and estimation strategies in a variety of Monte Carlo exercises. The accompanying notebook is available [here](http://nbviewer.jupyter.org/github/policyMetrics/course/blob/master/lectures/material/06_monte_carlo_exploration/lecture.ipynb).
+We revisit our discussion about the issues in the econometrics of policy evaluation, alternative parameters of interest, and estimation strategies in a variety of Monte Carlo exercises. The accompanying notebook is available [here](http://nbviewer.jupyter.org/github/HumanCapitalEconomics/econometrics/blob/master/lectures/material/06_monte_carlo_exploration/lecture.ipynb).
 
 ## Additional Resources <a name="additional_resources"></a>
 
