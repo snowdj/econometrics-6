@@ -36,7 +36,7 @@ Please use the table of content to navigate the rest of the material.
 ***
 ## Lectures <a name="lectures"></a>
 
-You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/course.pdf).
+You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/course_deck.pdf).
 
 #### [Introduction to the Econometrics of Policy Evaluation](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/01_intro_policy_metrics.pdf)
 
