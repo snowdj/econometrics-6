@@ -4,10 +4,7 @@
 
 We study the econometrics of policy evaluation. We frame the discussion around the generalized Roy model (Roy, 1951; Heckman and Vytlacil, 2005) which provides a coherent framework to explore the econometrics of policy evaluation. We discuss alternative objects of interest such as the individual-specific, average, distributional, and marginal effects of treatment and the policy-questions they address. We contrast the economic assumptions behind alternative estimation strategies such as (quasi-)experimental methods, ordinary least squares, matching, (local) instrumental variables, regression discontinuity designs.
 
-We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to contact us.
-
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/HumanCapitalEconomics/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-<br><br>
+We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to [contact us](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY).
 
 **Key References**
 
