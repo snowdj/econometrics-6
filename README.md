@@ -142,4 +142,4 @@ econometric policy evaluation.](http://www.jstor.org/stable/pdf/3598865.pdf?refr
 
 * **Winter Quarter 2017**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/iterations/bonn_ws_2017/README.md) for details.
 
-[![Build Status](https://travis-ci.org/HumanCapitalEconomics/econometrics.svg?branch=master)](https://travis-ci.org/HumanCapitalEconomics/econometrics)
+[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/econometrics.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/econometrics)
