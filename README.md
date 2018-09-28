@@ -1,4 +1,4 @@
-# Course on the Econometrics of Policy Evaluation
+﻿# Course on the Econometrics of Policy Evaluation
 
 > Intermediate between mathematics, statistics, and economics, we find a new discipline which for lack of a better name, may be called econometrics. Econometrics has as its aim to subject abstract laws of theoretical political economy or 'pure' economics to experimental and numerical verification, and thus to turn pure economics, as far as possible, into a science in the strict sense of the word. (Frisch, 1926)
 
@@ -20,7 +20,7 @@ III: Distributional treatment effects, dynamic treatment effects, dynamic discre
 and general equilibrium policy evaluation.](http://ac.els-cdn.com/S1573441207060722/1-s2.0-S1573441207060722-main.pdf?_tid=75533eb2-6bbf-11e7-b0b7-00000aab0f01&acdnat=1500385751_0d3980a5757d0ab71d6d88441e770bbd) In Heckman, J. J. and Leamer, E. E., editors, *Handbook of Econometrics*, volume 6B, pages 5145–5303. Elsevier Science, Amsterdam,
 Netherlands.
 
-The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/Eisenhauer_2012.pdf) provides an accessible introduction to the material in the context of the returns to college.
+The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf) provides an accessible introduction to the material in the context of the returns to college.
 
 Please use the table of content to navigate the rest of the material.
 
@@ -33,21 +33,21 @@ Please use the table of content to navigate the rest of the material.
 ***
 ## Lectures <a name="lectures"></a>
 
-You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/course_deck.pdf).
+You can access each individual lecture by simply clicking at their respective title. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/course_deck.pdf).
 
-#### [Introduction to the Econometrics of Policy Evaluation](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/01_intro_policy_metrics.pdf)
+#### [Introduction to the Econometrics of Policy Evaluation](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/01_intro_policy_metrics.pdf)
 
 We provide a brief introduction to the econometrics of policy evaluation. We discuss the evaluation tasks, preview the discussion about parameters of interest, and alternative estimation strategies.
 
-#### [Generalized Roy Model](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/02_generalized_roy_model.pdf)
+#### [Generalized Roy Model](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/02_generalized_roy_model.pdf)
 
 We introduce the generalized Roy model, which provides the conceptual framework for the whole course.
 
-#### [Parameters of Interest](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/03_parameters_interest.pdf)
+#### [Parameters of Interest](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/03_parameters_interest.pdf)
 
 We discuss alternative parameters of interest and clarify the policy questions they address.
 
-#### [Estimation Strategies](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/04_estimation_strategies.pdf)
+#### [Estimation Strategies](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/04_estimation_strategies.pdf)
 
 We explore alternative estimation strategies with a focus on the underlying economic assumptions about information available to the individual and econometrician.
 
@@ -55,9 +55,9 @@ We explore alternative estimation strategies with a focus on the underlying econ
 
 We explore the capabilities of the *grmpy* package. The accompanying notebook is available [here](https://github.com/OpenSourceEconomics/grmpy/blob/develop/promotion/presentation/04_grmpy_tutorial_notebook/application/grmpy_tut.ipynb).
 
-#### [Monte Carlo Exploration](https://github.com/HumanCapitalEconomics/econometrics/blob/master/distribution/06_monte_carlo_exploration.pdf)
+#### [Monte Carlo Exploration](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/06_monte_carlo_exploration.pdf)
 
-We revisit our discussion about the issues in the econometrics of policy evaluation, alternative parameters of interest, and estimation strategies in a variety of Monte Carlo exercises. The accompanying notebook is available [here](http://nbviewer.jupyter.org/github/HumanCapitalEconomics/econometrics/blob/master/lectures/material/06_monte_carlo_exploration/lecture.ipynb).
+We revisit our discussion about the issues in the econometrics of policy evaluation, alternative parameters of interest, and estimation strategies in a variety of Monte Carlo exercises. The accompanying notebook is available [here](http://nbviewer.jupyter.org/github/HumanCapitalAnalysis/econometrics/blob/master/lectures/material/06_monte_carlo_exploration/lecture.ipynb).
 
 ## Additional Resources <a name="additional_resources"></a>
 
@@ -138,8 +138,8 @@ econometric policy evaluation.](http://www.jstor.org/stable/pdf/3598865.pdf?refr
 
 ## Iterations <a name="iterations"></a>
 
-* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/iterations/bonn_ws_2018/README.md) for details.
+* **Winter Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/iterations/bonn_ws_2018/README.md) for details.
 
-* **Winter Quarter 2017**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/iterations/bonn_ws_2017/README.md) for details.
+* **Winter Quarter 2017**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/iterations/bonn_ws_2017/README.md) for details.
 
 [![Build Status](https://travis-ci.org/HumanCapitalEconomics/econometrics.svg?branch=master)](https://travis-ci.org/HumanCapitalEconomics/econometrics)
