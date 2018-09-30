@@ -15,7 +15,7 @@ Each participant summarizes and evaluates an applied research article in light o
 
 The core lectures are available [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/README.md).
 
-#### [Course overview](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/iterations/bonn_ws_2019/00_course_outline.pdf)
+#### [Course overview](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/iterations/bonn_ws_2018/00_course_outline.pdf)
 
 I briefly review some administrative issues regarding the course.
 
