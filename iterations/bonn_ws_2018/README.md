@@ -5,6 +5,8 @@ We meet Thursdays between 14:15-15:45 in SR 0.017.
 
 **Lecturer** [Philipp Eisenhauer](https://peisenha.github.io/build/html/index.html)
 
+**Assistant** [Valerie Stottuth](https://github.com/vstottuth)
+
 ## Grading
 
 Each participant summarizes and evaluates an applied research article in light of the conceptual framework we develop during the course. The goal is to clearly delineate the definition of the parameter of interest, its identification, and the estimation approach. The results are shared within the group by means of a presentation and short manuscript.
