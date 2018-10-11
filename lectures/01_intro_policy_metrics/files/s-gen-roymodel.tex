@@ -1,20 +1,22 @@
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 \begin{frame}
-	\textbf{Generalized Roy Model as Unifying Framework}
-	\begin{align*}
-	\textbf{Potential Outcomes} &\qquad \textbf{Cost} \\
-	Y_1 = \mu_1(X) + U_1      &\qquad C = \mu_D(Z) + U_C \\
-	Y_0 = \mu_0(X) + U_0      &\qquad \\
-	& \\
-	\textbf{Observed Outcomes} &\qquad \textbf{Choice} \\
-	Y = D Y_1 + (1 - D)Y_0 &\qquad S = Y_1 - Y_0 - C \\
-	&\qquad D = \mathrm{I}[S > 0] \\
+	\textbf{Generalized Roy model}
+	\begin{align*}\begin{array}{l@{\qquad}l}
+			\text{Potential Outcomes} &\text{Observed Outcome}\\
+			Y_1 = \mu_1(X) + U_1      &  Y = D Y_1 + (1 - D)Y_0 \\
+			Y_0 = \mu_0(X) + U_0      &\\
+			& \\
+			\text{Choice} & \\
+			D = \mathrm{I}[\mu_D(X, Z) - V > 0] & \\
+		\end{array}
 	\end{align*}
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
 \begin{frame}
 	\begin{figure}[htp]\centering
-		\caption{Treatment Effects}\scalebox{0.35}{\includegraphics{fig-treatment-effects-conventional}}
+		\caption{Treatment Effects}\scalebox{0.35}{\includegraphics{fig-treatment-effects-with-eh}}
 	\end{figure}
 \end{frame}
 %-------------------------------------------------------------------------------
@@ -22,29 +24,6 @@
 \begin{frame}
 	\frametitle{Teaching Tool}
 	\begin{figure}[htp]\centering
-		\includegraphics[width=\textwidth]{fig-online-documentation}
+		\includegraphics[width=\textwidth]{fig-online-documentation-grmpy}
 	\end{figure}
-\end{frame}
-%-------------------------------------------------------------------------------
-%-------------------------------------------------------------------------------
-\begin{frame}
-	\textbf{The Mirrlees Review} \\ \vspace{15pt}
-	\begin{quote}
-		The Mirrlees Review brought together a high-profile group of
-		international experts and early career researchers to identify the
-		characteristics of a good tax system for any open developed economy in
-		the 21st century, assess the extent to which the UK tax system conforms
-		to these ideals, and recommend how it might realistically be reformed in
-		that direction.
-	\end{quote}
-\end{frame}
-%-------------------------------------------------------------------------------
-%-------------------------------------------------------------------------------
-\begin{frame}
-	\begin{figure}
-		\caption{The Mirrlees Review}
-		\centering
-		\subfloat[]{\includegraphics[width=0.40\linewidth]{fig-mirrlees-review-1}} \hspace{25pt}
-		\subfloat[]{\includegraphics[width=0.40\linewidth]{fig-mirrlees-review-2}}
-	\end{figure} 
 \end{frame}
