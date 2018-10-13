@@ -51,9 +51,9 @@ We discuss alternative parameters of interest and clarify the policy questions t
 
 We explore alternative estimation strategies with a focus on the underlying economic assumptions about information available to the individual and econometrician.
 
-#### [*grmpy* Tutorial](https://github.com/OpenSourceEconomics/grmpy/blob/develop/promotion/presentation/04_grmpy_tutorial/main.pdf)
+#### [*grmpy* Tutorial](https://github.com/OpenSourceEconomics/grmpy/blob/develop/promotion/04_grmpy_tutorial/main.pdf)
 
-We explore the capabilities of the *grmpy* package. The accompanying notebook is available [here](https://github.com/OpenSourceEconomics/grmpy/blob/develop/promotion/presentation/04_grmpy_tutorial_notebook/application/grmpy_tut.ipynb).
+We explore the capabilities of the *grmpy* package. The accompanying notebook is available [here](https://github.com/OpenSourceEconomics/grmpy/blob/develop/promotion/04_grmpy_tutorial_notebook/04_grmpy_tutorial_notebook.ipynb).
 
 #### [Monte Carlo Exploration](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/06_monte_carlo_exploration.pdf)
 
