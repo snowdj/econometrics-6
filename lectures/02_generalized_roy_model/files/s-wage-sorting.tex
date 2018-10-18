@@ -89,6 +89,10 @@
 									  & = \hdots + E[U_1 \mid U_1 - U_0 > -c^*_1]
 	\end{align*}
 
+	\begin{itemize}
+	\item What about identification at infinity arguments?
+	\end{itemize}
+
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
@@ -101,7 +105,7 @@
 	We know the following:
 	\begin{align*}
 	\sigma^* & = (\sigma_{11} - \sigma_{12}) +  (\sigma_{22} - \sigma_{12}) > 0 \\
-	\lambda &> 0
+	\lambda, \lambda^\prime &> 0
 	\end{align*}
 	\begin{itemize}\setlength\itemsep{1em}
 		\item There must be positive selection into one of the occupations and there can be positive selection into both.
@@ -117,14 +121,10 @@
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
 \begin{frame}
-	\textbf{What do we know?}
+	\textbf{What do we know?}\medskip
 	\begin{itemize}\setlength\itemsep{1em}
-		\item There is positive selection in Sector 2, because there cannot be negative selection in both and $\sigma_{22} > \sigma_{11}$.
-	\end{itemize}\medskip
-	\textbf{How about Sector 1?}
-	\begin{itemize}\setlength\itemsep{1em}
-		\item If $\sigma_{12} < 0$, then there is also positive selection in Sector 1.
-		\item If $\rho_{12} = 1$, then there is negative selection into Sector 1 as $\sigma_{12} > \sigma_{11}$
+		\item There is negative selection in Sector 2, because there cannot be negative selection in both and $\sigma_{22} < \sigma_{12}$.
+		\item There is positive selection in Sector 1, because there cannot be negative selection in both and $\sigma_{11} > \sigma_{12}$.
 	\end{itemize}
 \end{frame}
 %-------------------------------------------------------------------------------
@@ -139,4 +139,53 @@
 	\mu = \mu_1 + \frac{\sigma_{12}}{\sigma_{22}} \Bigg(\ln S_2 - \mu_2\Bigg) \quad\text{and}\quad
 	\sigma = \sigma_{11} \left(1 - \left(\frac{\sigma_{12}}{\sigma_1 \sigma_2}\right)^2\right)
 	\end{align*}
+\end{frame}
+%---------------------------------------------------------------------------------------------------
+%---------------------------------------------------------------------------------------------------
+\begin{frame}
+	\begin{center}
+		\LARGE\textbf{Heckman Productions}
+	\end{center}
+\end{frame}
+%---------------------------------------------------------------------------------------------------
+%---------------------------------------------------------------------------------------------------
+{
+   \setbeamercolor{background canvas}{bg=}
+	\includepdf[pages=1-100]{movie.pdf}
+}
+%---------------------------------------------------------------------------------------------------
+%---------------------------------------------------------------------------------------------------
+\begin{frame}\begin{center}
+	\LARGE\textit{Change in skill prices}
+\end{center}\end{frame}
+%---------------------------------------------------------------------------------------------------
+%---------------------------------------------------------------------------------------------------
+\begin{frame}
+\begin{align*}
+E[\ln S_1 \mid \ln W_1 > \ln W_2] & = \mu_1 + \frac{\sigma_{11} - \sigma_{12}}{\sigma^*} \lambda(-c_1) > \mu_1\\
+								  & \rightarrow \text{positive selection} \\
+								  & \\
+E[\ln S_2 \mid \ln W_2 > \ln W_1] & = \mu_2 + \frac{\sigma_{22} - \sigma_{12}}{\sigma^*} \lambda(-c_2) < \mu_2 \\
+& \rightarrow \text{negative selection}
+\end{align*}
+, where $c_i = \ln(\pi_i / \pi_j) + \mu_i - \mu_j$
+
+
+
+\end{frame}
+
+\begin{frame}
+
+How does the skill composition react to a change in prices?
+
+\begin{align*}
+\frac{E[\ln S_1 \mid \ln W_1 > \ln W_2]}{\partial \ln \pi_1 } & < 0 \\
+&\\
+\frac{E[\ln S_2 \mid \ln W_2 > \ln W_1]}{\partial \ln \pi_2 } & > 0
+\end{align*}
+
+\begin{itemize}
+\item What are the underlying economics?
+\end{itemize}
+
 \end{frame}
