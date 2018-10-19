@@ -32,6 +32,6 @@ I briefly review some administrative issues regarding the course.
 
 ## Presentation Schedule
 
-Each student presents a research article of his/her choice (20 minutes). Directly following the presentation a discussion between the course participants is being considered (round about 5 to 10 minutes). We will peer-review the presentations using the grading rubric available [here](https://github.com/HumanCapitalEconomics/econometrics/blob/master/material/presentation-grading.pdf).
+Each student presents a research article of his/her choice (20 minutes). Directly following the presentation a discussion between the course participants is being considered (round about 5 to 10 minutes). We will peer-review the presentations using the grading rubric available [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/material/presentation-grading.pdf).
 
 **.. to be determined**
