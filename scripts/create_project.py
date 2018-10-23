@@ -4,7 +4,7 @@ import subprocess
 import os
 
 # We build all lectures and update the distribution.
-os.chdir('lectures')
+os.chdir('../lectures')
 subprocess.check_call(['./create', '--update'])
 os.chdir('../')
 
