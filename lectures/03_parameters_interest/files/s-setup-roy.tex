@@ -7,7 +7,7 @@
 		$\Rightarrow$ Mathematical Analysis of  Data Point or Set Identification
 		\item Identifying Parameters from Real Data\\\hspace{0.3cm}
 		$\Rightarrow$ Estimation and Testing Theory
-	\end{itemize}	
+	\end{itemize}
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
@@ -35,18 +35,5 @@
 	\begin{align*}
 		P(X, Z) & = \Pr(D = 1\mid X, Z) = F_V(\mu_D(X, Z)) \\
 		U_D     & = F_V(V)
-	\end{align*}	
-\end{frame}
-%-------------------------------------------------------------------------------
-%-------------------------------------------------------------------------------
-\begin{frame}\textbf{Specification}\vspace{0.3cm}
-	We follow the parameterization in \citeA{Heckman.2005e}:
-	\begin{align*}\begin{array}{l@{\qquad}l@{\qquad}l@{\qquad}l}
-			Y_1 = \gamma + \alpha + U_1 & U_1 = \sigma_1 \epsilon & \gamma = 0.670          & \sigma_1 = \phantom{-}0.012 \\
-			Y_0 = \gamma + U_0          & U_0 = \sigma_0 \epsilon & \alpha = 0.200          & \sigma_0 = -0.050 \\
-			D = \mathrm{I}[Z - V > 0]   & V\phantom{_0} = \sigma_V \epsilon   & \epsilon \sim \N(0, 1) & \sigma_V = -1.000 \\
-	\end{array}\end{align*}
-	\begin{align*}\begin{array}{l@{\qquad}l}
-			Z \sim \N(-0.0026, 0.2700)  & U_D = \Phi\left(\frac{V}{\sigma_V\sigma_\epsilon}\right)\\
-	\end{array}\end{align*}	
+	\end{align*}
 \end{frame}
