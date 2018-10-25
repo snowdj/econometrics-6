@@ -18,8 +18,8 @@
 	\textbf{Selection Problem}
 	\begin{align*}
 		E[Y\mid D = 1] - E[Y\mid D = 0] & = \underbrace{E[Y_1 - Y_0]}_{B^{ATE}} \\
-		& + \underbrace{E[Y_1 - Y_0 \mid D = 1] - E[Y_1 - Y_0]}_{\text{Sorting Gain}} \\
-		& + \underbrace{E[Y_0\mid D = 1] - E[Y_0 \mid D = 0]}_{\text{Selection Bias}}
+		& + \underbrace{E[Y_1 - Y_0 \mid D = 1] - E[Y_1 - Y_0]}_{\text{Selection on gains}} \\
+		& + \underbrace{E[Y_0\mid D = 1] - E[Y_0 \mid D = 0]}_{\text{Selection on levels}}
 	\end{align*}
 \end{frame}
 %-------------------------------------------------------------------------------
@@ -27,7 +27,7 @@
 \begin{frame}
 	\begin{align*}
 		E[Y\mid D = 1] - E[Y\mid D = 0] & = \underbrace{E[Y_1 - Y_0\mid D = 1]}_{B^{TT}} \\
-		& + \underbrace{E[Y_0\mid D= 1]- E[Y_0 \mid D = 0]}_{\text{Selection Bias}}
+		& + \underbrace{E[Y_0\mid D= 1]- E[Y_0 \mid D = 0]}_{\text{Selection on levels}}
 	\end{align*}
 	\(\Rightarrow\) the bias depends on the parameter of interest
 \end{frame}
@@ -43,12 +43,5 @@
 \begin{frame}
 	\begin{figure}\caption{Distribution of Effects without Essential Heterogeneity}
 		\scalebox{0.35}{\includegraphics{fig-treatment-effects-without-eh}}
-	\end{figure}
-\end{frame}
-%-------------------------------------------------------------------------------
-%-------------------------------------------------------------------------------
-\begin{frame}
-	\begin{figure}\caption{Distribution of Benefits by Treatment Status}
-		\scalebox{0.35}{\includegraphics{fig-treatment-effects-treatment}}
 	\end{figure}
 \end{frame}
