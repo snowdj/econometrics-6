@@ -34,4 +34,15 @@ I briefly review some administrative issues regarding the course.
 
 Each student presents a research article of his/her choice (20 minutes). Directly following the presentation a discussion between the course participants is being considered (round about 5 to 10 minutes). We will peer-review the presentations using the grading rubric available [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/material/presentation-grading.pdf).
 
-**.. to be determined**
+
+
+| Date         | Speaker      | Paper        |
+| ------------ | ------------ | ------------ |
+| **29/11/18** |              |  |
+|              |              |  |
+| **06/12/18** |              |  |
+|              |              |  |
+| **13/12/18** |              |  |
+|              |              |  |
+| **20/12/18** | Valentin Stumpe | Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882. (Slides) |
+
