@@ -3,7 +3,7 @@
 \end{center}\end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}\textbf{Treatment Status}
+\begin{frame}\textbf{Treatment Status}\vspace{0.3cm}
 
 \begin{align*}
 D &\qquad \text{self-selected} \\
@@ -13,7 +13,7 @@ A &\qquad  \text{actual}
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}\textbf{Key Identifying Assumptions}
+\begin{frame}\textbf{Key Identifying Assumptions}\vspace{0.3cm}
 \begin{align*}
 (Y_1, Y_0) & \indep D \\
 (Y_1, Y_0) & \indep \xi \\
@@ -28,9 +28,9 @@ When do we have to worry about compliance?
 \begin{frame}
 \begin{align*}
 & E(Y\mid A = 1) - E(Y\mid A = 0) \\
-& \qquad\qquad = E(Y_1\mid A = 1) - E(Y_0\mid A = 0)  \tag{by full compliance} \\
-& \qquad\qquad = E(Y_1) - E(Y_0)  \tag{by randomization} \\
-& \qquad\qquad = ATE = TT = TUT
+& \qquad = E(Y_1\mid A = 1) - E(Y_0\mid A = 0)  \tag{by full compliance} \\
+& \qquad = E(Y_1) - E(Y_0)  \tag{by randomization} \\
+& \qquad = B^{ATE} = B^{TT} = B^{TUT}
 \end{align*}
 \end{frame}
 %-------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ What if we can only deny program participation to individuals who are willing to
 & E(Y\mid D= 1, A = 1) - E(Y\mid D = 1, A = 0) \\
 & \qquad\qquad = E(Y_1\mid D= 1, A = 1) - E(Y_0\mid D=1, A = 0) \\
 & \qquad\qquad = E(Y_1\mid D = 1) - E(Y_0 \mid D = 1)  \\
-& \qquad\qquad = TT \neq ATE \neq TUT
+& \qquad\qquad = B^{TT} \neq B^{ATE} \neq B^{TUT}
 \end{align*}
 \end{frame}
 %-------------------------------------------------------------------------------
@@ -56,12 +56,12 @@ What if we can only deny program participation to individuals who are willing to
 \begin{frame}\textbf{Issues}\vspace{0.3cm}
 
 \begin{itemize}\setlength\itemsep{1em}
-\item Compliance
-\item Imperfect Randomization
-\item Ethical Concerns
-\item Feasibility
-\item Expenses
-\item External Validity
+\item compliance
+\item imperfect randomization
+\item ethical concerns
+\item feasibility
+\item expenses
+\item external validity
 \end{itemize}
 \end{frame}
 %-------------------------------------------------------------------------------

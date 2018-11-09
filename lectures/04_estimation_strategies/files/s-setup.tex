@@ -3,7 +3,7 @@
 \end{center}\end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}\textbf{The Generalized Roy Model}
+\begin{frame}\textbf{The Generalized Roy Model}\vspace{0.3cm}
 \begin{align*}\begin{array}{l@{\qquad}l}
 \text{Potential Outcomes} &\text{Observed Outcome}\\
 Y_1 = \mu_1(X) + U_1      &  Y = D Y_1 + (1 - D)Y_0 \\
@@ -16,8 +16,7 @@ D = \mathrm{I}[\mu_D(X, Z) - V > 0] & \\
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}
-\textbf{Key Concept}\vspace{0.5cm}
+\begin{frame}\textbf{Key Concept}\vspace{0.3cm}
 
 \textbf{Definition:} Individuals select their treatment status based on
 gains unobservable by the econometrician. More formally,
@@ -31,8 +30,7 @@ Y_1 - Y_0 \notindep D\quad \mid X = x.
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}
-\textbf{Useful Notation}
+\begin{frame}\textbf{Useful Notation}\vspace{0.3cm}
 
 \begin{align*}
 P(X, Z) & = \Pr(D = 1 \mid X, Z)  = F_V(\mu_D(X, Z)) \\
@@ -42,7 +40,7 @@ U_D & = F_V(V)
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}\textbf{Key Assumptions}
+\begin{frame}\textbf{Key Assumptions}\vspace{0.3cm}
 
 \begin{itemize}\setlength\itemsep{1em}
 \item $(U_1, U_0, V)$ are independent of $Z$ conditional on $X$
@@ -68,22 +66,22 @@ Y_{0} & \text{if}\quad D = 0 \\
 
 \begin{align*}
 E[Y\mid D = 1] - E[Y\mid D = 0] & = \underbrace{E[Y_1 - Y_0]}_{B^{ATE}} \\
-	 							& + \underbrace{E[Y_1 - Y_0 \mid D = 1] - E[Y_1 - Y_0]}_{\text{Selection on gains}} \\
-								& + \underbrace{E[Y_0\mid D = 1] - E[Y_0 \mid D = 0]}_{\text{Selection on levels}}
+	 							& + \underbrace{E[Y_1 - Y_0 \mid D = 1] - E[Y_1 - Y_0]}_{\text{selection on gains}} \\
+								& + \underbrace{E[Y_0\mid D = 1] - E[Y_0 \mid D = 0]}_{\text{selection on levels}}
 \end{align*}
 \end{frame}
 %-------------------------------------------------------------------------------
 %-------------------------------------------------------------------------------
-\begin{frame}\textbf{Estimation Strategies}
+\begin{frame}\textbf{Estimation Strategies}\vspace{0.3cm}
 \begin{itemize}\setlength\itemsep{1em}
 \item Randomization
 \item Matching
-\item Instrumental Variables
+\item Instrumental Variables\medskip
 \begin{itemize}
 \item conventional and local
 \end{itemize}
-\item Regression Discontinuity
-\begin{itemize}\setlength\itemsep{1em}
+\item Regression Discontinuity\medskip
+\begin{itemize}
 \item fuzzy and sharp design
 \end{itemize}
 \end{itemize}
