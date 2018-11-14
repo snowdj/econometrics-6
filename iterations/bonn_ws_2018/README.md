@@ -38,7 +38,7 @@ Each student presents a research article of his/her choice (20 minutes). Directl
 
 | Date         | Speaker      | Paper        |
 | ------------ | ------------ | ------------ |
-| **29/11/18** | Benedikt Kauf | Cornelissen, T., Dustmann, C., Raute, A., & Schönberg, U. (2018). [Who benefits from universal child care? Estimating marginal returns to early child care attendance](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/699979). *Journal of Political Economy (forthcoming)*. (Slides) |
+| **29/11/18** | Benedikt Kauf | Cornelissen, T., Dustmann, C., Raute, A., & Schönberg, U. (2018). [Who Benefits from Universal Child Care? Estimating Marginal Returns to Early Child Care Attendance](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/699979). *Journal of Political Economy (forthcoming)*. (Slides) |
 |              | Moritz Mendel | Cunha, F., Heckman, J. J., & Schennach S. M. (2010). [Estimating the Technology of Cognitive and Noncognitive Skill Formation](http://jenni.uchicago.edu/papers/Cunha_Heckman_etal_2010_Econometrica_v78_n3.pdf). *Econometrica, 78*(3), 883-931. (Slides) |
 | **06/12/18** | Paul Schäfer | Becker, S. O., & Woessmann, L. (2009). [Was Weber Wrong? A Human Capital Theory of Protestant Economic History](https://academic.oup.com/qje/article/124/2/531/1905076). *The Quarterly Journal of Economics, 124*(2), 531–596. (Slides) |
 |              | Elif Bodur | Keane, M., & Wolpin, K. (1997). [The Career Decisions of Young Men](https://www.jstor.org/stable/10.1086/262080?seq=1#metadata_info_tab_contents6th). *Journal of Political Economy, 105*(3), 473-522. (Slides) |
