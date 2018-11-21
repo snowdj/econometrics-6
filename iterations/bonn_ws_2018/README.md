@@ -44,6 +44,8 @@ Each student presents a research article of his/her choice (20 minutes). Directl
 |              | Elif Bodur | Keane, M., & Wolpin, K. (1997). [The career decisions of young men](https://www.jstor.org/stable/10.1086/262080?seq=1#metadata_info_tab_contents6th). *Journal of Political Economy, 105*(3), 473-522. (Slides) |
 | **13/12/18** | Laurenz R. K. Günther | Acemoglu, D., Gallego, F. A., & Robinson, J. A. (2014). [Institutions, human capital, and development](https://www.annualreviews.org/doi/10.1146/annurev-economics-080213-041119). *Annual Review of Economics, 6*, 875-912. (Slides) |
 |              | Jan Knuf | Zimmerman, S. (2018). [Elite colleges and upward mobility to top jobs and top incomes](http://faculty.chicagobooth.edu/seth.zimmerman/research/papers/Zimmerman_Top_Jobs_maintext.pdf). *American Economic Review (forthcoming)*. (Slides) |
+|              | Dilor Meco | Blundell, R., Costa Dias, M., Meghir, C., Van Reenen, J. (2004). [Evaluating the employment effects
+of a mandatory job search program](https://academic.oup.com/jeea/article-abstract/2/4/569/2280805?redirectedFrom=fulltext). *Journal of the European Economic Association 2*(4), 569–606. (Slides) |
 | **20/12/18** | Valentin Stumpe | Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From natural variation to optimal policy? The importance of endogenous peer group formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica, 81*(3), 855-882. (Slides) |
 |              | Radost Holler | Pischke, J., & Von Wachter, T. (2008). [Zero returns to compulsory schooling in Germany: Evidence and interpretation](https://www.jstor.org/stable/pdf/40043170.pdf). *The Review of Economics and Statistics, 90*(3), 592-598. (Slides) |
 
