@@ -47,5 +47,5 @@ Each student presents a research article of his/her choice (20 minutes). Directl
 |              | Dilor Meco | Blundell, R., Costa Dias, M., Meghir, C., Van Reenen, J. (2004). [Evaluating the employment effects of a mandatory job search program](https://academic.oup.com/jeea/article-abstract/2/4/569/2280805?redirectedFrom=fulltext). *Journal of the European Economic Association, 2*(4), 569–606. (Slides) |
 | **20/12/18** | Valentin Stumpe | Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From natural variation to optimal policy? The importance of endogenous peer group formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica, 81*(3), 855-882. (Slides) |
 |              | Radost Holler | Pischke, J., & Von Wachter, T. (2008). [Zero returns to compulsory schooling in Germany: Evidence and interpretation](https://www.jstor.org/stable/pdf/40043170.pdf). *The Review of Economics and Statistics, 90*(3), 592-598. (Slides) |
-|              | Thanh An Vo |  |
+|              | Thanh An Vo | Heckman, J. J., Humphries J. E., & Veramendi, G. (2018). [Returns to Education: The Causal Effects of Education on Earnings, Health, and Smoking](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/698760). *Journal of Political Economy, 126*(S1), S197-S246. (Slides) |
 
