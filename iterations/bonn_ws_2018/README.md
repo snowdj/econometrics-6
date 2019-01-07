@@ -11,6 +11,8 @@ We meet Thursdays between 14:15-15:45 in SR 0.017.
 
 Each participant summarizes and evaluates an applied research article in light of the conceptual framework we develop during the course. The goal is to clearly delineate the definition of the parameter of interest, its identification, and the estimation approach. The results are shared within the group by means of a presentation and short manuscript.
 
+Please make sure to submit your manuscript by noon on the first of February to Valerie.
+
 ## Lectures
 
 The core lectures are available [here](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/README.md).
