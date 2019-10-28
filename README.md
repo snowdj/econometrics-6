@@ -8,11 +8,11 @@ We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials t
 
 **Key References**
 
-*  Heckman, J. J., and Vytlacil, E. J. (2007a). [Econometric evaluation of social programs, part I: Causal effects, structural models and econometric policy evaluation.](http://econ.ucsb.edu/~doug/245a/Papers/Econometric%20Evaluation%20Social%20Programs.pdf) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 4779–4874). Amsterdam, Netherlands: Elsevier Science.
+*  Heckman, J. J., and Vytlacil, E. J. (2007a). [Econometric evaluation of social programs, part I: Causal effects, structural models and econometric policy evaluation.](http://econ.ucsb.edu/~doug/245a/Papers/Econometric%20Evaluation%20Social%20Programs.pdf) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 4779–4874). Elsevier Science, Amsterdam, Netherlands.
 
-* Heckman, J. J., and Vytlacil, E. J. (2007b). [Econometric evaluation of social programs, part II: Using the marginal treatment effect to organize alternative economic estimators to evaluate social programs and to forecast their effects in new environments.](https://www.sciencedirect.com/science/article/pii/S1573441207060710) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 4875–5144). Amsterdam, Netherlands: Elsevier Science.
+* Heckman, J. J., and Vytlacil, E. J. (2007b). [Econometric evaluation of social programs, part II: Using the marginal treatment effect to organize alternative economic estimators to evaluate social programs and to forecast their effects in new environments.](https://www.sciencedirect.com/science/article/pii/S1573441207060710) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 4875–5144). Elsevier Science, Amsterdam, Netherlands.
 
-* Abbring, J., and Heckman, J. J. (2007). [Econometric evaluation of social programs, part III: Distributional treatment effects, dynamic treatment effects, dynamic discrete choice, and general equilibrium policy evaluation.](https://www.sciencedirect.com/science/article/pii/S1573441207060722) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 5145–5303). Amsterdam, Netherlands: Elsevier Science.
+* Abbring, J., and Heckman, J. J. (2007). [Econometric evaluation of social programs, part III: Distributional treatment effects, dynamic treatment effects, dynamic discrete choice, and general equilibrium policy evaluation.](https://www.sciencedirect.com/science/article/pii/S1573441207060722) In J. J. Heckman, and E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, pp. 5145–5303). Elsevier Science, Amsterdam, Netherlands.
 
 The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalAnalysis/policy-evaluation/blob/master/distribution/Eisenhauer_2012.pdf) provides an accessible introduction to the material in the context of the returns to college.
 
@@ -113,11 +113,14 @@ We will not cover each estimation method in detail and instead focus on the rela
 
 We found the following references useful:
 
-- Strunk, W., and White, E. B. (2000). [The elements of style.](https://books.google.de/books?id=MhTEmgEACAAJ&dq=the+elements+of+style+2000&hl=de&sa=X&ved=0ahUKEwjXhoeJtZjXAhVFlxoKHfu-DakQ6AEIKjAA) New York, NY: Longman.
-- Wallwork, A. (2016). [English for writing research papers.](https://books.google.de/books?id=a0-vCwAAQBAJ&hl=de&source=gbs_book_other_versions) Basel, Switzerland: Springer International Publishing.
-- Wallwork A. (2016). [English for presentations at international conferences.](https://books.google.de/books?id=ntKwCwAAQBAJ&dq=English+for+presentations+at+international+conferences&hl=de&source=gbs_navlinks_s) Basel, Switzerland: Springer International Publishing.
-- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [The craft of research.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) Chicago, IL: University of Chicago Press.
-- Adler, M. J., and Van Doren, C. (2011). [How to read a book.](https://books.google.de/books/about/How_to_Read_a_Book.html?id=Z5PpkQadm5EC&redir_esc=y) New York, NY: Touchstone.
+- Strunk, W., and White, E. B. (2000). [The elements of style.](https://books.google.de/books?id=MhTEmgEACAAJ&dq=the+elements+of+style+2000&hl=de&sa=X&ved=0ahUKEwjXhoeJtZjXAhVFlxoKHfu-DakQ6AEIKjAA) Longman, New York, NY. 
+- Wallwork, A. (2016). [English for writing research papers.](https://books.google.de/books?id=a0-vCwAAQBAJ&hl=de&source=gbs_book_other_versions) Springer International Publishing, Basel, Switzerland. 
+- Wallwork A. (2016). [English for presentations at international conferences.](https://books.google.de/books?id=ntKwCwAAQBAJ&dq=English+for+presentations+at+international+conferences&hl=de&source=gbs_navlinks_s) Springer International Publishing, Basel, Switzerland.
+- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [The craft of research.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
+- Adler, M. J., and Van Doren, C. (2011). [How to read a book.](https://books.google.de/books/about/How_to_Read_a_Book.html?id=Z5PpkQadm5EC&redir_esc=y) Touchstone, New York, NY.
+- Clark, R. P. (2006). [Writing tools: 50 essential strategies for every writer](https://www.amazon.com/Writing-Tools-Essential-Strategies-Writer/dp/0316014990). Little, Brown, and Co.,  New York.
+- King, S. (2000). [On writing: A memoir of the craft](https://www.amazon.de/Writing-Memoir-Craft-Stephen-King/dp/1439156816). Scribner,  New York.
+- McCloskey, D. N. (2000). [Economical writing](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633). Waveland Press, Long Grove, IL.
 
 
 ## References <a name="references"></a>
