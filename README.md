@@ -4,7 +4,7 @@
 
 We study the econometrics of human capital analysis. We frame the discussion around the generalized Roy model (Roy, 1951; Heckman and Vytlacil, 2005) which provides a coherent framework to explore the econometrics of policy evaluation. We discuss alternative objects of interest such as the individual-specific, average, distributional, and marginal effects of treatment and the policy-questions they address. We contrast the economic assumptions behind alternative estimation strategies such as (quasi-)experimental methods, ordinary least squares, matching, (local) instrumental variables, regression discontinuity designs.
 
-We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to [contact us](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY).
+We will use [grmpy](https://grmpy.readthedocs.io) in several hand-on tutorials to explore the mechanics of the generalized Roy model. For further information, please do not hesitate to [contact us](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LTE1ZDA3YTk2MThhY2QwOTA0ZTJiMjlhZmM1MzU3ODQ0ODQ2OWFlYmE5ZDQ3MGMwOWJmZmU5ZGFhNTFhMTExN2E).
 
 **Key References**
 
@@ -107,7 +107,7 @@ We collect the answer to frequently asked questions below.
 
 * **Are there any prerequisites?**
 
-We will not cover each estimation method in detail and instead focus on the relationships between them. Thus a basic familiarity with applied economic research and its methods is required. Also, we use numerous online collaboration tools throughout the course such as [GitHub](https://github.com), [Gitter](https://gitter.im) and thus a willingness to adopt these tools is necessary. A basic knowledge of [Python](https://www.python.org) and the [Jupyter Notebook](http://jupyter.org/) is helpful for the tutorials. The [Scipy Lecture Notes](http://www.scipy-lectures.org/) provide an excellent introduction to both. The manuscript [Python for Econometrics, Statistics, and Numerical Analysis](https://www.kevinsheppard.com/Python_for_Econometrics) focuses on the use of [Python](https://www.python.org) for  econometrics and data analysis.
+We will not cover each estimation method in detail and instead focus on the relationships between them. Thus a basic familiarity with applied economic research and its methods is required. Also, we use numerous online collaboration tools throughout the course such as [GitHub](https://github.com), [Gitter](https://gitter.im) and thus a willingness to adopt these tools is necessary. A basic knowledge of [Python](https://www.python.org) and the [Jupyter Notebook](http://jupyter.org/) is helpful for the tutorials. The [Scipy Lecture Notes](http://www.scipy-lectures.org/) provide an excellent introduction to both. The manuscript [Introduction to Python for econometrics, statistics and data analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2019.pdf) focuses on the use of [Python](https://www.python.org) for  econometrics and data analysis.
 
 * **What are helpful resources to improve my presentation and writing skills?**
 
